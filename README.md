@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Marco! 👋
 
-<!--
-**MarcoUlrichfhnw/MarcoUlrichfhnw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Medical Informatics student** at FHNW Muttenz, bridging the gap between healthcare expertise and software engineering.
 
-Here are some ideas to get you started:
+### 🌟 About Me
+- 🎓 **Education:** Studying Medical Informatics at FHNW.
+- 💊 **Background:** Certified pharmacy technician (Pharma-Assistent) with solid practical experience in the pharmaceutical environment.
+- 💡 **Goal:** Developing smart software solutions to solve real-world problems in healthcare and medical businesses.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Current Focus & Tech Stack
+- 🏫 Learning the fundamentals of **Python** and **Java** in my university courses.
+- 🤖 Exploring **AI-assisted development** to build, prompt, and test my first project prototypes.
+- 📊 Interested in Medical Data, Software Architecture, and Automation.
+
+---
+
+*“Combining medical practice with modern technology to shape the future of digital healthcare.”*
